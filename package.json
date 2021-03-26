@@ -1,0 +1,25 @@
+{
+  "name": "ADS-Aulas-Segundo-Semestre-main",
+  "version": "1.0.0",
+  "description": "Este projeto foi desenvolvido por Érico e Luan Costa de Oliveira durante o segundo semestre do curso de Análise e Desenvolvimento de Sistemas no Centro Universitário Senac Santo Amaro.",
+  "main": "index.js",
+  "scripts": {
+    "dev": "next dev"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Tarcisio10/AdsAulas.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Tarcisio10/AdsAulas/issues"
+  },
+  "homepage": "https://github.com/Tarcisio10/AdsAulas#readme",
+  "dependencies": {
+    "next": "^10.0.9",
+    "react": "^17.0.2",
+    "react-dom": "^17.0.2"
+  }
+}
