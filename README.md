@@ -1,2 +1,13 @@
-# ADS-Aulas-Segundo-Semestre
-Este projeto foi desenvolvido por Érico e Luan Costa de Oliveira durante o segundo semestre do curso de Análise e Desenvolvimento de Sistemas no Centro Universitário Senac Santo Amaro.
+# Portal Web-Aulas.
+Visitar ---> https://ads-aulas.vercel.app/  ✅On
+
+--------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+Este projeto foi inicialmente desenvolvido por @Érico e @https://github.com/Salemzinho.
+
+# Minhas contribuiçoes :
+
+Adicionar a infraestrutura cloud da Vercel hospedando ele gratuitamente. 
+
+Implantar Next.js, o framework frontend mais moderno atualmente, com high performance e suporte as tecnologias Node.js e React.js, que foram usadas também. 
+
